@@ -7,7 +7,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -147,7 +147,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602206854699</updated>
-      <workItem from="1602206871428" duration="4006000" />
+      <workItem from="1602206871428" duration="4384000" />
+      <workItem from="1602873553866" duration="4000" />
+      <workItem from="1604631271190" duration="3449000" />
     </task>
     <servers />
   </component>
@@ -159,5 +161,9 @@
       <screen x="0" y="30" width="1366" height="738" />
     </state>
     <state x="309" y="76" key="#Inspections/0.30.1366.738@0.30.1366.738" timestamp="1602208241739" />
+    <state x="275" y="34" width="816" height="734" key="#Intentions" timestamp="1604634557751">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="275" y="34" width="816" height="734" key="#Intentions/0.30.1366.738@0.30.1366.738" timestamp="1604634557751" />
   </component>
 </project>
